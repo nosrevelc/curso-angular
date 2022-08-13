@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Video de Auxilio para fazer o deploy
 
-Vizualizar Deploy no GitHub  to execute the unit tests via [Video de Deploy](https://www.youtube.com/watch?v=PbgVbCb3zuE).
+Vizualizar Deploy no GitHub  [Video de Deploy](https://www.youtube.com/watch?v=PbgVbCb3zuE).
