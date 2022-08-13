@@ -1,0 +1,12 @@
+<div class="aulas">
+    <h2>Lista do render</h2>
+    <ul class="list-group">
+        <li *ngFor="let animal of  animais; index as i" class="list-group-item list-group-item-warning">
+            {{i+1}} -  <button (click)="mostraIdade(animal)" class="btn btn-success">Idade</button>
+         Nome : {{animal.nome}} -  Tipo : {{animal.tipo}}
+    
+            
+        </li>
+    </ul>
+    <h3 class="list-group-item list-group-item-success">Detalhes do Animal : {{detalhesAnimal}}</h3>
+</div>
